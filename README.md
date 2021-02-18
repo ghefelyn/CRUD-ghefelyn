@@ -8,5 +8,5 @@ User wise sell report
 #Requirement
 Need to change
 core.php, logout.php, index.php
-header('location: http://localhost/<foldername>/index.php');	
+header('location: http://localhost/inventory-management-system/index.html');	
 

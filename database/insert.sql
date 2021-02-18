@@ -1,0 +1,1 @@
+INSERT INTO users (`username`,`password`,`email`)values('admin1','admin2','')
